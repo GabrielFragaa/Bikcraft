@@ -2,7 +2,7 @@
 
 # Sobre o projeto
 
-https://gabrielfragaa.github.io/bikcraft/
+https://gabrielfragaa.github.io/Bikcraft/
 
 O projeto "Bikcraft" é um site profissional fictício construído durante a realização do curso para desenvolvedores Front-End da plataforma de ensino [Origamid](https://www.origamid.com).
 
